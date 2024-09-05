@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Abdulrahman Kama Alatowi
+# 👋 Hi, I’m Abdulrahman Kamal Alatowi
 
 Welcome to my GitHub profile! I’m a passionate software developer with expertise in mobile and web development, specializing in Flutter and full-stack development. I enjoy building innovative solutions and continuously learning new technologies.
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m a passionate software developer with experti
 
 ## 🛠️ Skills
 
-- **Languages**: Dart, JavaScript, HTML, CSS.
+- **Languages**: Dart, Java, HTML, CSS,JavaScript.
 - **Frameworks**: Flutter.
 - **State Management**: GetX, Provider.
 - **Databases**: Firebase, MySQL, SQFLite.
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I’m a passionate software developer with experti
 
 - **LinkedIn**: [linkedin.com/in/atowi7](https://www.linkedin.com/in/atowi7)
 - **Email**: [dhoom.sedge@gmail.com](mailto:dhoom.sedge@gmail.com)
-- **website**: [atowi7.com](https://www.atowi7.com)
+- **Website**: [atowi7.com](https://www.atowi7.com)
 
 ---
 
