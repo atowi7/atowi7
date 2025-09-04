@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I’m a passionate software developer with experti
 ## 💻 About Me
 
 - 🌍 Currently based in **Egypt**.
-- 🎓 Studying for a **Master's in Computer Science** at **Cairo University**.
 - 🎓 Graduated with a **Bachelor's in Computer Science** from **Saudi Arabia**.
 - 🛠️ I have hands-on experience working on various projects.
 
